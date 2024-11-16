@@ -1,0 +1,7 @@
+.DS_S*
+__pycache__/
+solution*.wav
+*_utils.py
+!HW*_utils.py
+tmp.wav
+data/audio/instruments
